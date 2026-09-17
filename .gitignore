@@ -1,0 +1,8 @@
+# Never commit real secrets/configs by accident
+*.env
+*secrets*
+*credentials*
+*.pem
+*_key
+id_rsa*
+.DS_Store
